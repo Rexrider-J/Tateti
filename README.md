@@ -1,6 +1,6 @@
 # Tateti
 
-Es un tateti muy sencillo con la finalidad de comenzar a utilizar matrices.
+Es un tateti muy sencillo con la finalidad de utilizar matrices.
 
 # Requisitos
 
